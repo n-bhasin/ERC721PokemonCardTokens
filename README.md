@@ -1,5 +1,6 @@
 # ERC721PokemonCardTokens
-
+# Information
+This project is an assignment for Smart Contract Essentials in George Brown College. The aim is to create a use case by implementing ERC721 Token.
 # Personal Information
 
     Name: Neeraj Bhasin
